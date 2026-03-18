@@ -1,2 +1,2 @@
-FastAPI
-Uvicorn
+fastapi
+uvicorn
